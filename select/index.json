@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "girl my friend",
+  "base_artist": "マカロニえんぴつ",
+  "createdAt": "2025-12-15T13:03:22.377325Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "girl my friend",
+      "artist": "Macaroni Empitsu",
+      "has_synced": true,
+      "path": "select/01_girl_my_friend_Macaroni_Empitsu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "girl my friend",
+      "artist": "マカロニえんぴつ",
+      "has_synced": true,
+      "path": "select/02_girl_my_friend_マカロニえんぴつ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "girl my friend",
+      "artist": "マカロニえんぴつ",
+      "has_synced": false,
+      "path": "select/03_girl_my_friend_マカロニえんぴつ.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "girl my friend",
+      "artist": "macaroni enpitsu",
+      "has_synced": true,
+      "path": "select/04_girl_my_friend_macaroni_enpitsu.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "girl my friend",
+      "artist": "マカロニえんぴつ",
+      "has_synced": false,
+      "path": "select/pl_01_girl_my_friend_マカロニえんぴつ.txt"
+    }
+  ]
+}
